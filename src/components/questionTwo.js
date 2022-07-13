@@ -29,7 +29,8 @@ const QuestionTwo = () => {
           "font-size": "15px",
         }}
         xAxisSlanted={true}
-        title="Country with the most expensive gas"
+        title="Country with the Most Expensive Gas per Gallon (USD)"
+        titleStyles={{"font-size": "20px", "font-weight": "bold"}}
       />
     </Flex>
   )

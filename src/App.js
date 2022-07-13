@@ -12,9 +12,9 @@ function App() {
         justifyContent="center"
         alignItems="center"
         flexDir={"column"}
-        bgGradient="linear(to-r, #390099, #9e0059, #ff0054, #ff5400, #ffbd00)"
+        bgGradient="linear(to-r, #22577a, #38a3a5, #57cc99, #80ed99, #c7f9cc)"
       >
-        <Flex w='auto' h='auto' bg='white' borderRadius={20} flexDir='column' p={10}>
+        <Flex w='auto' h='auto' bg='white' borderRadius={20} flexDir='column' p={10} dropShadow="5">
           <QuestionOne />
           <QuestionTwo />
           <QuestionThree />

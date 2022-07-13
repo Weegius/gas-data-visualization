@@ -8,12 +8,11 @@ import { BarGraph } from "react-d3-bar-graph";
 
 const mostGasUsed = data
   .sort(
-    (a, b) =>
-      b["Yearly Gallons Per Capita"] -
-      a["Yearly Gallons Per Capita"]
-  ).filter((_, i) => i < 5);
+    (a, b) => b["Yearly Gallons Per Capita"] - a["Yearly Gallons Per Capita"]
+  )
+  .filter((_, i) => i < 5);
 
-  // console.log(mostGasUsed);
+// console.log(mostGasUsed);
 const QuestionOne = () => {
   return (
     <Flex>
@@ -32,6 +31,7 @@ const QuestionOne = () => {
         xAxisSlanted={true}
         title="Country with the most yearly gallons per capita"
         // colors={["#ffbd00", "#ff5400", "#ff0054", "#9e0059", "#390099"]}
+        titleStyles={{ "font-size": "20px", "font-weight": "bold" }}
       />
     </Flex>
   );
