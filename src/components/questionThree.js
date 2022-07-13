@@ -39,6 +39,7 @@ const QuestionThree = () => {
           "font-size": "15px",
         }}
         xAxisSlanted={true}
+        title="Country with the most daily oil consumption"
       />
     </Flex>
   );

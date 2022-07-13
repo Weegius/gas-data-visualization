@@ -29,6 +29,7 @@ const QuestionTwo = () => {
           "font-size": "15px",
         }}
         xAxisSlanted={true}
+        title="Country with the most expensive gas"
       />
     </Flex>
   )
