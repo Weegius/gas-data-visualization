@@ -18,7 +18,7 @@ const QuestionOne = () => {
   return (
     <Flex>
       <BarGraph
-        width={700}
+        width={800}
         height={400}
         yRange={5000}
         xValue="Country"
@@ -30,6 +30,8 @@ const QuestionOne = () => {
           "font-size": "15px",
         }}
         xAxisSlanted={true}
+        title="Country with the most yearly gallons per capita"
+        // colors={["#ffbd00", "#ff5400", "#ff0054", "#9e0059", "#390099"]}
       />
     </Flex>
   );

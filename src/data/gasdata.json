@@ -2212,7 +2212,7 @@
   {
     "S#": 171,
     "Country": "Saint Helena",
-    "Daily Oil Consumption (Barrels)": 70,
+    "Daily Oil Consumption (Barrels)": "70",
     "World Share": "0%",
     "Yearly Gallons Per Capita": 180.2,
     "Price Per Gallon (USD)": 5.53,
@@ -2225,7 +2225,7 @@
   {
     "S#": 172,
     "Country": "Kiribati",
-    "Daily Oil Consumption (Barrels)": 400,
+    "Daily Oil Consumption (Barrels)": "400",
     "World Share": "0%",
     "Yearly Gallons Per Capita": 54.5,
     "Price Per Gallon (USD)": 4.09,
@@ -2303,7 +2303,7 @@
   {
     "S#": 178,
     "Country": "Niue",
-    "Daily Oil Consumption (Barrels)": 51,
+    "Daily Oil Consumption (Barrels)": "51",
     "World Share": "0%",
     "Yearly Gallons Per Capita": 484.4,
     "Price Per Gallon (USD)": 11.43,
@@ -2316,7 +2316,7 @@
   {
     "S#": 179,
     "Country": "Saint Pierre & Miquelon",
-    "Daily Oil Consumption (Barrels)": 660,
+    "Daily Oil Consumption (Barrels)": "660",
     "World Share": "0%",
     "Yearly Gallons Per Capita": 1705.1,
     "Price Per Gallon (USD)": 8.27,
@@ -2329,7 +2329,7 @@
   {
     "S#": 180,
     "Country": "Montserrat",
-    "Daily Oil Consumption (Barrels)": 400,
+    "Daily Oil Consumption (Barrels)": "400",
     "World Share": "0%",
     "Yearly Gallons Per Capita": 1231.1,
     "Price Per Gallon (USD)": 4.57,
@@ -2342,7 +2342,7 @@
   {
     "S#": 181,
     "Country": "Tonga",
-    "Daily Oil Consumption (Barrels)": 899,
+    "Daily Oil Consumption (Barrels)": "899",
     "World Share": "0%",
     "Yearly Gallons Per Capita": 136.3,
     "Price Per Gallon (USD)": 16.2,
